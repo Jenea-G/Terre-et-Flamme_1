@@ -7,7 +7,7 @@ Projet réalisé dans le cadre de ma formation en design graphique.
 Ce site Web présente un studio fictif de modélisation d’argile, nommé *Terre et Flamme*.
 
 **Aperçu en ligne**  
-→ [Voir le site](https://jenea-g.github.io/gurulea-evgeniya-tp1-int-web-2/)
+→ [Voir le site](https://jenea-g.github.io/Terre-et-Flamme_2/)
 
 ## 🎯 Objectifs
 - Créer une identité visuelle cohérente pour une entreprise fictive
